@@ -1,0 +1,26 @@
+1. Open Game Interface: Welcome to Chess!
+
+- Assembled chessboard at the left, cannot center due to column calculation bug
+- Three buttons in the right
+    * Bot Chess
+    * 2P Chess
+    * Sandbox Chess //this is the only one that has undoes
+    
+- 2 pickers at the bottom 
+    Time Picker
+    * Bullet - 1 min
+    * Blitz I - 3 min
+    * Blitz II - 5 min
+    * Rapid I - 10 min
+    * Rapid II - 30 min
+    * Classical - 60 min
+    Permove Time Picker (seconds)
+    * 2, 5, 10, 30
+
+2. Bot Chess Interface
+
+
+
+
+
+ 
